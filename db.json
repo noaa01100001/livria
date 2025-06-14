@@ -3,7 +3,15 @@
     
   ],
   "adminUser":[
-
+    {
+      "id": "1",
+      "display": "Super Administrador",
+      "username": "admin_default",
+      "email": "admin@livria.com",
+      "password": "hashed_password_admin_123",
+      "adminAccess": 1,
+      "securityPin": "0000"
+    }
   ],
   "communities": [
     {
@@ -28,7 +36,7 @@
         },
         {
           "id": "3",
-          "username": "b",
+          "username": "bea",
           "content": "can't wait for sbr",
           "img": "https://animesuperhero.com/wp-content/uploads/2025/04/steelballrun.jpg"
         },
