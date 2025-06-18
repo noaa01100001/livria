@@ -1174,7 +1174,8 @@
         {
           "id": "1",
           "username": "joja",
-          "content": "absolutely loved this book"
+          "content": "absolutely loved this book",
+          "stars": "4"
         }
       ]
     },
@@ -1191,27 +1192,26 @@
         {
           "id": "1",
           "username": "reviewwizard",
-          "content": "Recomendadísimo"
+          "content": "Recomendadísimo",
+          "stars": "3"
         },
         {
           "id": "2",
           "username": "lectoraempedernida",
-          "content": "Me hizo reflexionar mucho"
+          "content": "Me hizo reflexionar mucho",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "lectoraempedernida",
-          "content": "Perfecto para leer en una tarde"
+          "content": "Perfecto para leer en una tarde",
+          "stars": "4"
         },
         {
           "id": "4",
           "username": "narrativejunkie",
-          "content": "Una lectura fascinante"
-        },
-        {
-          "id": "5",
-          "username": "booklover23",
-          "content": "Una lectura fascinante"
+          "content": "Una lectura fascinante",
+          "stars": "3"
         }
       ]
     },
@@ -1228,22 +1228,26 @@
         {
           "id": "1",
           "username": "criticadepapel",
-          "content": "Buena trama, aunque esperaba más"
+          "content": "No me gustó",
+          "stars": "1"
         },
         {
           "id": "2",
           "username": "narrativejunkie",
-          "content": "Me atrapó desde la primera página"
+          "content": "Me atrapó desde la primera página",
+          "stars": "4"
         },
         {
           "id": "3",
-          "username": "criticadepapel",
-          "content": "Buena trama, aunque esperaba más"
+          "username": "mrcriticas",
+          "content": "Dice breve perspectiva pero es bien largo",
+          "stars": "2"
         },
         {
           "id": "4",
-          "username": "narrativejunkie",
-          "content": "Me hizo reflexionar mucho"
+          "username": "elsapiens",
+          "content": "Me hizo reflexionar mucho",
+          "stars": "5"
         }
       ]
     },
@@ -1260,17 +1264,20 @@
         {
           "id": "1",
           "username": "reviewwizard",
-          "content": "El final me sorprendió"
+          "content": "El final me sorprendió",
+          "stars": "4"
         },
         {
           "id": "2",
           "username": "readaholic",
-          "content": "Me atrapó desde la primera página"
+          "content": "Me atrapó desde la primera página",
+          "stars": "5"
         },
         {
           "id": "3",
           "username": "jabberwock",
-          "content": "very fun anime but also very sad"
+          "content": "very fun story but also very sad",
+          "stars": "4"
         }
       ]
     },
@@ -1287,17 +1294,20 @@
         {
           "id": "1",
           "username": "lectoraempedernida",
-          "content": "No pude soltarlo"
+          "content": "No pude soltarlo",
+          "stars": "4"
         },
         {
           "id": "2",
           "username": "palabradicto",
-          "content": "Ideal para amantes del género"
+          "content": "Ideal para amantes del género",
+          "stars": "5"
         },
         {
           "id": "3",
           "username": "librofanatic",
-          "content": "El final me sorprendió"
+          "content": "El final me sorprendió",
+          "stars": "4"
         }
       ]
     },
@@ -1314,17 +1324,20 @@
         {
           "id": "1",
           "username": "librofanatic",
-          "content": "Los personajes están muy bien desarrollados"
+          "content": "Los personajes están muy bien desarrollados",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "librofanatic",
-          "content": "Ideal para amantes del género"
+          "content": "Ideal para amantes del género",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "criticadepapel",
-          "content": "Los personajes están muy bien desarrollados"
+          "content": "Super lindo, ninguna queja",
+          "stars": "5"
         }
       ]
     },
@@ -1341,27 +1354,20 @@
         {
           "id": "1",
           "username": "readaholic",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "Un poco lento al inicio, pero mejora",
+          "stars": "3"
         },
         {
           "id": "2",
           "username": "fictionfiend",
-          "content": "Me hizo reflexionar mucho"
+          "content": "Me hizo reflexionar mucho",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "pageturner93",
-          "content": "Recomendadísimo"
-        },
-        {
-          "id": "4",
-          "username": "readaholic",
-          "content": "Ideal para amantes del género"
-        },
-        {
-          "id": "5",
-          "username": "lectoraempedernida",
-          "content": "Los personajes están muy bien desarrollados"
+          "content": "Recomendadísimo",
+          "stars": "5"
         }
       ]
     },
@@ -1378,27 +1384,32 @@
         {
           "id": "1",
           "username": "palabradicto",
-          "content": "El final me sorprendió"
+          "content": "El final me sorprendió",
+          "stars": "3"
         },
         {
           "id": "2",
           "username": "narrativejunkie",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "Un poco lento al inicio, pero mejora",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "pageturner93",
-          "content": "Me atrapó desde la primera página"
+          "content": "Me atrapó desde la primera página",
+          "stars": "5"
         },
         {
           "id": "4",
           "username": "readaholic",
-          "content": "Una lectura fascinante"
+          "content": "Una lectura fascinante",
+          "stars": "4"
         },
         {
           "id": "5",
           "username": "palabradicto",
-          "content": "Me hizo reflexionar mucho"
+          "content": "Me hizo reflexionar mucho",
+          "stars": "4"
         }
       ]
     },
@@ -1415,22 +1426,26 @@
         {
           "id": "1",
           "username": "booklover23",
-          "content": "Me hizo reflexionar mucho"
+          "content": "Una mirada profunda a la historia peruana.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "lectoraempedernida",
-          "content": "Una lectura fascinante"
+          "content": "La narrativa es muy envolvente.",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "fictionfiend",
-          "content": "Los personajes están muy bien desarrollados"
+          "content": "Los personajes están muy bien desarrollados.",
+          "stars": "5"
         },
         {
           "id": "4",
           "username": "lectoraempedernida",
-          "content": "Ideal para amantes del género"
+          "content": "Ideal para entender el contexto de la época.",
+          "stars": "4"
         }
       ]
     },
@@ -1447,27 +1462,26 @@
         {
           "id": "1",
           "username": "readaholic",
-          "content": "Una lectura fascinante"
+          "content": "Un ensayo muy revelador.",
+          "stars": "4"
         },
         {
           "id": "2",
           "username": "reviewwizard",
-          "content": "El final me sorprendió"
+          "content": "Me hizo cuestionar mis propias ideas sobre la felicidad.",
+          "stars": "5"
         },
         {
           "id": "3",
-          "username": "readaholic",
-          "content": "Una lectura fascinante"
-        },
-        {
-          "id": "4",
           "username": "criticadepapel",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "Un poco denso al principio, pero las ideas valen la pena.",
+          "stars": "3"
         },
         {
           "id": "5",
           "username": "fictionfiend",
-          "content": "Ideal para amantes del género"
+          "content": "Ideal para reflexionar sobre el bienestar.",
+          "stars": "4"
         }
       ]
     },
@@ -1484,7 +1498,8 @@
         {
           "id": "1",
           "username": "reviewwizard",
-          "content": "Recomendadísimo"
+          "content": "Recomendadísimo, te mantiene en vilo.",
+          "stars": "5"
         }
       ]
     },
@@ -1501,17 +1516,14 @@
         {
           "id": "1",
           "username": "booklover23",
-          "content": "Un poco lento al inicio, pero mejora"
-        },
-        {
-          "id": "2",
-          "username": "lectoraempedernida",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "La trama de viajes en el tiempo es adictiva.",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "lectoraempedernida",
-          "content": "Me hizo reflexionar mucho"
+          "content": "Me enganchó la dinámica de las pandillas.",
+          "stars": "4"
         }
       ]
     },
@@ -1528,17 +1540,20 @@
         {
           "id": "1",
           "username": "booklover23",
-          "content": "El final me sorprendió"
+          "content": "Un clásico que siempre disfruto.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "criticadepapel",
-          "content": "Perfecto para leer en una tarde"
+          "content": "Perfecto para una tarde de magia.",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "palabradicto",
-          "content": "El final me sorprendió"
+          "content": "La fantasía es increíble.",
+          "stars": "5"
         }
       ]
     },
@@ -1555,22 +1570,20 @@
         {
           "id": "1",
           "username": "pageturner93",
-          "content": "Buena trama, aunque esperaba más"
+          "content": "Excelente para enseñar emociones a los niños.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "lectoraempedernida",
-          "content": "Me atrapó desde la primera página"
+          "content": "Muy visual y didáctico.",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "booklover23",
-          "content": "Recomendadísimo"
-        },
-        {
-          "id": "4",
-          "username": "lectoraempedernida",
-          "content": "Buena trama, aunque esperaba más"
+          "content": "A mi hijo le encantó.",
+          "stars": "5"
         }
       ]
     },
@@ -1587,7 +1600,8 @@
         {
           "id": "1",
           "username": "palabradicto",
-          "content": "Recomendadísimo"
+          "content": "Increíble y fácil de entender.",
+          "stars": "5"
         }
       ]
     },
@@ -1604,17 +1618,20 @@
         {
           "id": "1",
           "username": "librofanatic",
-          "content": "Me atrapó desde la primera página"
+          "content": "Muy práctico para aplicar en el día a día.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "reviewwizard",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "Las estrategias son muy efectivas.",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "librofanatic",
-          "content": "Recomendadísimo"
+          "content": "Recomendado para mejorar la productividad.",
+          "stars": "5"
         }
       ]
     },
@@ -1631,27 +1648,26 @@
         {
           "id": "1",
           "username": "booklover23",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "Cambió mi perspectiva sobre las finanzas.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "reviewwizard",
-          "content": "Buena trama, aunque esperaba más"
+          "content": "Muy informativo y fácil de leer.",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "pageturner93",
-          "content": "Buena trama, aunque esperaba más"
+          "content": "Conceptos clave para la libertad financiera.",
+          "stars": "4"
         },
         {
           "id": "4",
           "username": "readaholic",
-          "content": "Perfecto para leer en una tarde"
-        },
-        {
-          "id": "5",
-          "username": "palabradicto",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "Lo leí en una tarde, muy atrapante.",
+          "stars": "5"
         }
       ]
     },
@@ -1668,22 +1684,26 @@
         {
           "id": "1",
           "username": "readaholic",
-          "content": "Me hizo reflexionar mucho"
+          "content": "Una joya de la literatura clásica.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "readaholic",
-          "content": "Recomendadísimo"
+          "content": "La atmósfera de los años 20 es cautivadora.",
+          "stars": "5"
         },
         {
           "id": "3",
           "username": "fictionfiend",
-          "content": "Recomendadísimo"
+          "content": "Una obra maestra.",
+          "stars": "5"
         },
         {
           "id": "4",
           "username": "palabradicto",
-          "content": "Buena trama, aunque esperaba más"
+          "content": "El desenlace es impactante.",
+          "stars": "4"
         }
       ]
     },
@@ -1700,17 +1720,20 @@
         {
           "id": "1",
           "username": "lectoraempedernida",
-          "content": "Me hizo reflexionar mucho"
+          "content": "Una lectura emotiva y misteriosa.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "lectoraempedernida",
-          "content": "Me atrapó desde la primera página"
+          "content": "La descripción de la naturaleza es hermosa.",
+          "stars": "5"
         },
         {
           "id": "3",
           "username": "readaholic",
-          "content": "Me hizo reflexionar mucho"
+          "content": "Me dejó pensando días después de terminarlo.",
+          "stars": "4"
         }
       ]
     },
@@ -1727,17 +1750,20 @@
         {
           "id": "1",
           "username": "readaholic",
-          "content": "Los personajes están muy bien desarrollados"
+          "content": "Muy directo y refrescante.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "reviewwizard",
-          "content": "Me atrapó desde la primera página"
+          "content": "Me hizo reír y reflexionar.",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "palabradicto",
-          "content": "Perfecto para leer en una tarde"
+          "content": "Una lectura rápida y motivadora.",
+          "stars": "4"
         }
       ]
     },
@@ -1754,17 +1780,20 @@
         {
           "id": "1",
           "username": "narrativejunkie",
-          "content": "Una lectura fascinante"
+          "content": "Siempre un placer releerlo.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "reviewwizard",
-          "content": "Me hizo reflexionar mucho"
+          "content": "Cada vez descubro algo nuevo.",
+          "stars": "5"
         },
         {
           "id": "3",
           "username": "readaholic",
-          "content": "Me atrapó desde la primera página"
+          "content": "Un libro para todas las edades.",
+          "stars": "5"
         }
       ]
     },
@@ -1781,22 +1810,20 @@
         {
           "id": "1",
           "username": "fictionfiend",
-          "content": "Una lectura fascinante"
+          "content": "Una obra conmovedora y profunda.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "fictionfiend",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "Impactante y necesario.",
+          "stars": "5"
         },
         {
           "id": "3",
           "username": "lectoraempedernida",
-          "content": "Me atrapó desde la primera página"
-        },
-        {
-          "id": "4",
-          "username": "reviewwizard",
-          "content": "Me atrapó desde la primera página"
+          "content": "Me dejó una gran lección de vida.",
+          "stars": "5"
         }
       ]
     },
@@ -1813,12 +1840,14 @@
         {
           "id": "1",
           "username": "booklover23",
-          "content": "Me atrapó desde la primera página"
+          "content": "La ambientación es fascinante.",
+          "stars": "4"
         },
         {
           "id": "2",
           "username": "readaholic",
-          "content": "No pude soltarlo"
+          "content": "Una historia que te llega al alma.",
+          "stars": "5"
         }
       ]
     },
@@ -1835,17 +1864,20 @@
         {
           "id": "1",
           "username": "criticadepapel",
-          "content": "Recomendadísimo"
+          "content": "Muy divertido y original.",
+          "stars": "4"
         },
         {
           "id": "2",
           "username": "narrativejunkie",
-          "content": "Recomendadísimo"
+          "content": "Los personajes son geniales.",
+          "stars": "5"
         },
         {
           "id": "3",
           "username": "jabberwock",
-          "content": "es muy bueno !!"
+          "content": "¡Es muy bueno, no paré de reír!",
+          "stars": "5"
         }
       ]
     },
@@ -1862,7 +1894,8 @@
         {
           "id": "1",
           "username": "booklover23",
-          "content": "Una lectura fascinante"
+          "content": "Una distopía que te atrapa.",
+          "stars": "4"
         }
       ]
     },
@@ -1879,17 +1912,20 @@
         {
           "id": "1",
           "username": "lectoraempedernida",
-          "content": "No pude soltarlo"
+          "content": "Excelente para ayudar a los niños con sus miedos.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "fictionfiend",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "Mi hijo lo adora y le ayudó mucho.",
+          "stars": "5"
         },
         {
           "id": "3",
           "username": "reviewwizard",
-          "content": "Recomendadísimo"
+          "content": "Recomendadísimo para padres y niños.",
+          "stars": "5"
         }
       ]
     },
@@ -1906,17 +1942,20 @@
         {
           "id": "1",
           "username": "librofanatic",
-          "content": "Me hizo reflexionar mucho"
+          "content": "Una biografía muy inspiradora.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "readaholic",
-          "content": "Ideal para amantes del género"
+          "content": "Ideal para amantes de la política y la historia.",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "librofanatic",
-          "content": "El final me sorprendió"
+          "content": "Una perspectiva única sobre su presidencia.",
+          "stars": "4"
         }
       ]
     },
@@ -1933,17 +1972,20 @@
         {
           "id": "1",
           "username": "reviewwizard",
-          "content": "Me hizo reflexionar mucho"
+          "content": "Isabel Allende nunca decepciona.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "narrativejunkie",
-          "content": "Una lectura fascinante"
+          "content": "Una lectura llena de emociones.",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "booklover23",
-          "content": "Me hizo reflexionar mucho"
+          "content": "Me conmovió profundamente.",
+          "stars": "5"
         }
       ]
     },
@@ -1960,22 +2002,20 @@
         {
           "id": "1",
           "username": "librofanatic",
-          "content": "Ideal para amantes del género"
+          "content": "Impresionante inicio de saga.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "palabradicto",
-          "content": "Una lectura fascinante"
+          "content": "El arte es espectacular.",
+          "stars": "5"
         },
         {
           "id": "3",
           "username": "narrativejunkie",
-          "content": "Un poco lento al inicio, pero mejora"
-        },
-        {
-          "id": "4",
-          "username": "criticadepapel",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "Oscuro y atrapante.",
+          "stars": "4"
         }
       ]
     },
@@ -1992,22 +2032,26 @@
         {
           "id": "1",
           "username": "pageturner93",
-          "content": "No pude soltarlo"
+          "content": "Súper tierno y adictivo.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "palabradicto",
-          "content": "No pude soltarlo"
+          "content": "Una historia adorable.",
+          "stars": "5"
         },
         {
           "id": "3",
           "username": "booklover23",
-          "content": "Los personajes están muy bien desarrollados"
+          "content": "Los personajes son lo mejor.",
+          "stars": "5"
         },
         {
           "id": "4",
           "username": "fictionfiend",
-          "content": "Recomendadísimo"
+          "content": "Recomendadísimo para los amantes del romance.",
+          "stars": "5"
         }
       ]
     },
@@ -2024,27 +2068,26 @@
         {
           "id": "1",
           "username": "reviewwizard",
-          "content": "Buena trama, aunque esperaba más"
+          "content": "Transformador y muy profundo.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "narrativejunkie",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "Una lectura que te cambia la vida.",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "criticadepapel",
-          "content": "Me hizo reflexionar mucho"
+          "content": "Me ayudó a encontrar calma.",
+          "stars": "5"
         },
         {
           "id": "4",
           "username": "pageturner93",
-          "content": "Buena trama, aunque esperaba más"
-        },
-        {
-          "id": "5",
-          "username": "criticadepapel",
-          "content": "El final me sorprendió"
+          "content": "Lectura esencial para el crecimiento personal.",
+          "stars": "5"
         }
       ]
     },
@@ -2061,12 +2104,14 @@
         {
           "id": "1",
           "username": "readaholic",
-          "content": "Una lectura fascinante"
+          "content": "Una historia de superación increíble.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "palabradicto",
-          "content": "Me atrapó desde la primera página"
+          "content": "Me dejó sin palabras.",
+          "stars": "5"
         }
       ]
     },
@@ -2083,7 +2128,8 @@
         {
           "id": "1",
           "username": "readaholic",
-          "content": "Ideal para amantes del género"
+          "content": "Un clásico que hay que leer.",
+          "stars": "4"
         }
       ]
     },
@@ -2100,7 +2146,8 @@
         {
           "id": "1",
           "username": "palabradicto",
-          "content": "Una lectura fascinante"
+          "content": "Muy emotivo, me hizo llorar.",
+          "stars": "5"
         }
       ]
     },
@@ -2117,22 +2164,20 @@
         {
           "id": "1",
           "username": "booklover23",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "Un universo increíblemente bien construido.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "fictionfiend",
-          "content": "Buena trama, aunque esperaba más"
+          "content": "Fascinante, especialmente el world-building.",
+          "stars": "5"
         },
         {
           "id": "3",
           "username": "pageturner93",
-          "content": "Un poco lento al inicio, pero mejora"
-        },
-        {
-          "id": "4",
-          "username": "booklover23",
-          "content": "Perfecto para leer en una tarde"
+          "content": "Ligeramente complejo al inicio, pero luego engancha.",
+          "stars": "4"
         }
       ]
     },
@@ -2149,27 +2194,32 @@
         {
           "id": "1",
           "username": "booklover23",
-          "content": "Me hizo reflexionar mucho"
+          "content": "Una historia mágica.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "lectoraempedernida",
-          "content": "Buena trama, aunque esperaba más"
+          "content": "La atmósfera de Barcelona es cautivadora.",
+          "stars": "5"
         },
         {
           "id": "3",
           "username": "fictionfiend",
-          "content": "Los personajes están muy bien desarrollados"
+          "content": "Los personajes son inolvidables.",
+          "stars": "5"
         },
         {
           "id": "4",
           "username": "reviewwizard",
-          "content": "Buena trama, aunque esperaba más"
+          "content": "Un misterio muy bien hilado.",
+          "stars": "5"
         },
         {
           "id": "5",
           "username": "palabradicto",
-          "content": "El final me sorprendió"
+          "content": "El final es sorprendente.",
+          "stars": "5"
         }
       ]
     },
@@ -2186,12 +2236,14 @@
         {
           "id": "1",
           "username": "librofanatic",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "Un inicio prometedor para la saga.",
+          "stars": "4"
         },
         {
           "id": "2",
           "username": "criticadepapel",
-          "content": "Me atrapó desde la primera página"
+          "content": "Me atrapó la historia de Naruto.",
+          "stars": "4"
         }
       ]
     },
@@ -2208,22 +2260,26 @@
         {
           "id": "1",
           "username": "criticadepapel",
-          "content": "Una lectura fascinante"
+          "content": "Un mundo de fantasía muy rico.",
+          "stars": "4"
         },
         {
           "id": "2",
           "username": "criticadepapel",
-          "content": "Buena trama, aunque esperaba más"
+          "content": "La acción es constante.",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "narrativejunkie",
-          "content": "Una lectura fascinante"
+          "content": "Muy entretenido y con buenos personajes.",
+          "stars": "5"
         },
         {
           "id": "4",
           "username": "pageturner93",
-          "content": "El final me sorprendió"
+          "content": "El plot twist me sorprendió.",
+          "stars": "4"
         }
       ]
     },
@@ -2240,17 +2296,20 @@
         {
           "id": "1",
           "username": "palabradicto",
-          "content": "Ideal para amantes del género"
+          "content": "Un cuento muy dulce para los pequeños.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "reviewwizard",
-          "content": "Buena trama, aunque esperaba más"
+          "content": "Las ilustraciones son hermosas.",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "reviewwizard",
-          "content": "Recomendadísimo"
+          "content": "Recomendado para la hora de dormir.",
+          "stars": "5"
         }
       ]
     },
@@ -2267,7 +2326,8 @@
         {
           "id": "1",
           "username": "pageturner93",
-          "content": "Ideal para amantes del género"
+          "content": "Muy motivador y crudo.",
+          "stars": "5"
         }
       ]
     },
@@ -2284,22 +2344,26 @@
         {
           "id": "1",
           "username": "booklover23",
-          "content": "Ideal para amantes del género"
+          "content": "Un desafío literario fascinante.",
+          "stars": "5"
         },
         {
-          "id": "1",
+          "id": "2",
           "username": "reviewwizard",
-          "content": "Recomendadísimo"
+          "content": "Recomendado para quienes buscan algo diferente.",
+          "stars": "4"
         },
         {
-          "id": "127",
+          "id": "3",
           "username": "pageturner93",
-          "content": "Una lectura fascinante"
+          "content": "La narrativa es única.",
+          "stars": "5"
         },
         {
-          "id": "1",
+          "id": "4",
           "username": "criticadepapel",
-          "content": "El final me sorprendió"
+          "content": "El final es abierto a la interpretación.",
+          "stars": "4"
         }
       ]
     },
@@ -2316,27 +2380,26 @@
         {
           "id": "1",
           "username": "fictionfiend",
-          "content": "Me atrapó desde la primera página"
+          "content": "Me mantuvo pegado a sus páginas.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "readaholic",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "Un thriller con mucha intriga.",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "librofanatic",
-          "content": "Ideal para amantes del género"
+          "content": "Ideal para los amantes de los misterios históricos.",
+          "stars": "5"
         },
         {
           "id": "4",
           "username": "palabradicto",
-          "content": "Una lectura fascinante"
-        },
-        {
-          "id": "5",
-          "username": "reviewwizard",
-          "content": "Me atrapó desde la primera página"
+          "content": "La historia es muy bien investigada.",
+          "stars": "4"
         }
       ]
     },
@@ -2353,17 +2416,20 @@
         {
           "id": "1",
           "username": "librofanatic",
-          "content": "Una lectura fascinante"
+          "content": "Realmente útil para crear buenos hábitos.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "palabradicto",
-          "content": "Perfecto para leer en una tarde"
+          "content": "Fácil de entender y aplicar.",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "criticadepapel",
-          "content": "Perfecto para leer en una tarde"
+          "content": "Un libro que te impulsa a la acción.",
+          "stars": "5"
         }
       ]
     },
@@ -2380,17 +2446,20 @@
         {
           "id": "1",
           "username": "booklover23",
-          "content": "Me hizo reflexionar mucho"
+          "content": "Acción frenética y personajes únicos.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "reviewwizard",
-          "content": "Me atrapó desde la primera página"
+          "content": "Una locura muy entretenida.",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "criticadepapel",
-          "content": "Ideal para amantes del género"
+          "content": "Ideal para los amantes del gore y la acción.",
+          "stars": "5"
         }
       ]
     },
@@ -2407,7 +2476,8 @@
         {
           "id": "1",
           "username": "lectoraempedernida",
-          "content": "Una lectura fascinante"
+          "content": "Un romance juvenil encantador.",
+          "stars": "4"
         }
       ]
     },
@@ -2424,22 +2494,20 @@
         {
           "id": "1",
           "username": "narrativejunkie",
-          "content": "Perfecto para leer en una tarde"
+          "content": "A mi sobrino le encanta levantar las solapas.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "fictionfiend",
-          "content": "El final me sorprendió"
+          "content": "Perfecto para interactuar con los niños.",
+          "stars": "5"
         },
         {
           "id": "3",
           "username": "reviewwizard",
-          "content": "Los personajes están muy bien desarrollados"
-        },
-        {
-          "id": "4",
-          "username": "lectoraempedernida",
-          "content": "El final me sorprendió"
+          "content": "Muy educativo y divertido para los bebés.",
+          "stars": "5"
         }
       ]
     },
@@ -2456,27 +2524,26 @@
         {
           "id": "1",
           "username": "librofanatic",
-          "content": "Buena trama, aunque esperaba más"
+          "content": "Una autobiografía muy sincera e inspiradora.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "librofanatic",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "Su historia es admirable.",
+          "stars": "5"
         },
         {
           "id": "3",
           "username": "pageturner93",
-          "content": "Los personajes están muy bien desarrollados"
+          "content": "Una lectura poderosa y emotiva.",
+          "stars": "5"
         },
         {
           "id": "4",
           "username": "librofanatic",
-          "content": "El final me sorprendió"
-        },
-        {
-          "id": "5",
-          "username": "booklover23",
-          "content": "Recomendadísimo"
+          "content": "Me dejó una gran impresión.",
+          "stars": "5"
         }
       ]
     },
@@ -2493,32 +2560,38 @@
         {
           "id": "1",
           "username": "palabradicto",
-          "content": "Perfecto para leer en una tarde"
+          "content": "Una obra maestra de García Márquez.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "reviewwizard",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "La narrativa es impecable.",
+          "stars": "5"
         },
         {
           "id": "3",
           "username": "criticadepapel",
-          "content": "Los personajes están muy bien desarrollados"
+          "content": "Los personajes son muy complejos.",
+          "stars": "5"
         },
         {
           "id": "4",
           "username": "palabradicto",
-          "content": "Buena trama, aunque esperaba más"
+          "content": "El misterio te mantiene enganchado.",
+          "stars": "4"
         },
         {
           "id": "5",
           "username": "narrativejunkie",
-          "content": "Ideal para amantes del género"
+          "content": "Ideal para un análisis literario.",
+          "stars": "4"
         },
         {
           "id": "6",
           "username": "jabberwock",
-          "content": "definitivamente de mis libros favs"
+          "content": "¡Definitivamente de mis libros favoritos!",
+          "stars": "5"
         }
       ]
     },
@@ -2535,12 +2608,14 @@
         {
           "id": "1",
           "username": "lectoraempedernida",
-          "content": "Una lectura fascinante"
+          "content": "Una lectura fascinante, el comienzo de una aventura épica.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "palabradicto",
-          "content": "Me atrapó desde la primera página"
+          "content": "Me atrapó desde la primera página, ¡totalmente recomendado para fans del manga!",
+          "stars": "5"
         }
       ]
     },
@@ -2557,22 +2632,20 @@
         {
           "id": "1",
           "username": "readaholic",
-          "content": "No pude soltarlo"
+          "content": "No pude soltarlo, la intriga del laberinto es increíble.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "reviewwizard",
-          "content": "Una lectura fascinante"
+          "content": "Una lectura fascinante para jóvenes, llena de acción y misterio.",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "fictionfiend",
-          "content": "Buena trama, aunque esperaba más"
-        },
-        {
-          "id": "4",
-          "username": "reviewwizard",
-          "content": "No pude soltarlo"
+          "content": "Buena trama, aunque esperaba un poco más de desarrollo en los personajes.",
+          "stars": "3"
         }
       ]
     },
@@ -2589,12 +2662,14 @@
         {
           "id": "1",
           "username": "lectoraempedernida",
-          "content": "Me hizo reflexionar mucho"
+          "content": "Me hizo reflexionar mucho sobre la amistad y el bien contra el mal. Un inicio mágico.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "booklover23",
-          "content": "Ideal para amantes del género"
+          "content": "Ideal para amantes del género fantástico, te sumerge en un mundo inolvidable.",
+          "stars": "5"
         }
       ]
     },
@@ -2611,22 +2686,20 @@
         {
           "id": "1",
           "username": "narrativejunkie",
-          "content": "Perfecto para leer en una tarde"
+          "content": "Perfecto para leer en una tarde, con consejos prácticos y útiles.",
+          "stars": "4"
         },
         {
           "id": "2",
           "username": "fictionfiend",
-          "content": "Me hizo reflexionar mucho"
-        },
-        {
-          "id": "3",
-          "username": "narrativejunkie",
-          "content": "Perfecto para leer en una tarde"
+          "content": "Me hizo reflexionar mucho sobre mis interacciones sociales. Muy perspicaz.",
+          "stars": "4"
         },
         {
           "id": "4",
           "username": "readaholic",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "Un poco lento al inicio, pero mejora y ofrece excelentes perspectivas.",
+          "stars": "3"
         }
       ]
     },
@@ -2643,22 +2716,20 @@
         {
           "id": "1",
           "username": "reviewwizard",
-          "content": "Me hizo reflexionar mucho"
+          "content": "Me hizo reflexionar mucho sobre el destino y los sueños.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "readaholic",
-          "content": "Me atrapó desde la primera página"
+          "content": "Me atrapó desde la primera página con su mensaje inspirador.",
+          "stars": "5"
         },
         {
           "id": "3",
-          "username": "reviewwizard",
-          "content": "Un poco lento al inicio, pero mejora"
-        },
-        {
-          "id": "4",
           "username": "pageturner93",
-          "content": "Me atrapó desde la primera página"
+          "content": "Un poco lento al inicio, pero la filosofía del libro es profunda y gratificante.",
+          "stars": "4"
         }
       ]
     },
@@ -2675,7 +2746,8 @@
         {
           "id": "1",
           "username": "fictionfiend",
-          "content": "Perfecto para leer en una tarde"
+          "content": "Perfecto para leer en una tarde si buscas una obra que te haga cuestionar la sociedad.",
+          "stars": "5"
         }
       ]
     },
@@ -2692,12 +2764,8 @@
         {
           "id": "1",
           "username": "readaholic",
-          "content": "Me atrapó desde la primera página"
-        },
-        {
-          "id": "2",
-          "username": "readaholic",
-          "content": "No pude soltarlo"
+          "content": "Me atrapó desde la primera página con la fuerza de sus personajes femeninos. No pude soltarlo.",
+          "stars": "5"
         }
       ]
     },
@@ -2714,17 +2782,14 @@
         {
           "id": "1",
           "username": "librofanatic",
-          "content": "El final me sorprendió"
+          "content": "El final me sorprendió, ¡una excelente adaptación al manga!",
+          "stars": "4"
         },
         {
           "id": "2",
           "username": "booklover23",
-          "content": "Buena trama, aunque esperaba más"
-        },
-        {
-          "id": "3",
-          "username": "lectoraempedernida",
-          "content": "Recomendadísimo"
+          "content": "Buena trama, aunque esperaba más profundidad en la historia. Recomendadísimo para fans de Pokémon.",
+          "stars": "3"
         }
       ]
     },
@@ -2741,27 +2806,26 @@
         {
           "id": "1",
           "username": "reviewwizard",
-          "content": "No pude soltarlo"
+          "content": "No pude soltarlo, una historia de amor muy intensa y emocionante.",
+          "stars": "4"
         },
         {
           "id": "2",
           "username": "palabradicto",
-          "content": "Me atrapó desde la primera página"
+          "content": "Me atrapó desde la primera página, ideal para un maratón de lectura.",
+          "stars": "4"
         },
         {
           "id": "3",
           "username": "booklover23",
-          "content": "Una lectura fascinante"
-        },
-        {
-          "id": "4",
-          "username": "fictionfiend",
-          "content": "Un poco lento al inicio, pero mejora"
+          "content": "Una lectura fascinante, aunque en ocasiones sentí que la trama se volvía un poco lenta.",
+          "stars": "3"
         },
         {
           "id": "5",
           "username": "narrativejunkie",
-          "content": "Buena trama, aunque esperaba más"
+          "content": "Buena trama, aunque esperaba un desarrollo diferente en los personajes.",
+          "stars": "3"
         }
       ]
     },
@@ -2778,7 +2842,8 @@
         {
           "id": "1",
           "username": "palabradicto",
-          "content": "Ideal para amantes del género"
+          "content": "Ideal para amantes del género infantil, con mensajes profundos para los pequeños.",
+          "stars": "4"
         }
       ]
     },
@@ -2795,17 +2860,14 @@
         {
           "id": "1",
           "username": "palabradicto",
-          "content": "Perfecto para leer en una tarde"
+          "content": "Perfecto para leer en una tarde si te interesa el mundo de la tecnología. Ideal para amantes del género.",
+          "stars": "5"
         },
         {
           "id": "2",
           "username": "narrativejunkie",
-          "content": "No pude soltarlo"
-        },
-        {
-          "id": "3",
-          "username": "palabradicto",
-          "content": "Ideal para amantes del género"
+          "content": "No pude soltarlo, una biografía fascinante y muy completa.",
+          "stars": "5"
         }
       ]
     },
@@ -2822,12 +2884,14 @@
         {
           "id": "1",
           "username": "palabradicto",
-          "content": "No pude soltarlo"
+          "content": "No pude soltarlo, este libro te da herramientas para la vida diaria.",
+          "stars": "4"
         },
         {
-          "id": "1",
+          "id": "2",
           "username": "narrativejunkie",
-          "content": "Perfecto para leer en una tarde"
+          "content": "Perfecto para leer en una tarde, con ideas que te harán pensar y crecer.",
+          "stars": "4"
         }
       ]
     }
